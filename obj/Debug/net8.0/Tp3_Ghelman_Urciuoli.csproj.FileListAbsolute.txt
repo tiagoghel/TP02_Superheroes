@@ -1,0 +1,14 @@
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.AssemblyInfoInputs.cache
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.AssemblyInfo.cs
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.csproj.CoreCompileInputs.cache
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\bin\Debug\net8.0\Tp3_Ghelman_Urciuoli.exe
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\bin\Debug\net8.0\Tp3_Ghelman_Urciuoli.deps.json
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\bin\Debug\net8.0\Tp3_Ghelman_Urciuoli.runtimeconfig.json
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\bin\Debug\net8.0\Tp3_Ghelman_Urciuoli.dll
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\bin\Debug\net8.0\Tp3_Ghelman_Urciuoli.pdb
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.dll
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\refint\Tp3_Ghelman_Urciuoli.dll
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.pdb
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\Tp3_Ghelman_Urciuoli.genruntimeconfig.cache
+Z:\Prog4to\Tp3_Ghelman_Urciuoli\obj\Debug\net8.0\ref\Tp3_Ghelman_Urciuoli.dll
